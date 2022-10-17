@@ -1,4 +1,4 @@
-/* Esto es una cabecera del documento Program Java
+/* Esto es una cabecera del documento Program Java!
 /*
  * Program.java        20.10.2020
  *
@@ -46,7 +46,7 @@ public class Program {
 
 		Scanner in = new Scanner(System.in);
 
-		System.out.println("Enter the radius: ");
+		System.out.println("Enter the radius in meters: ");
 		double radi = in.nextDouble();
 
 		in.close();
