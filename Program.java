@@ -1,3 +1,5 @@
+/*COPYRIGHT
+/*CAMBIO
 /* Esto es una cabecera del documento Program Java
 /*
  * Program.java        20.10.2020
